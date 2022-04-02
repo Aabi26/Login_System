@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  background-color: #333333;
+  color: #fff;
+  padding: 15px;
+  letter-spacing: 2px;
+}
+
+form {
+  margin-top: 30px;
+  padding: 0px 100px;
+}
+form .form-group {
+  margin-top: 9px;
+}
+h4 {
+  text-align: center;
+  color: crimson;
+}
